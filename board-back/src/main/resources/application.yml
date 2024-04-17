@@ -1,0 +1,19 @@
+# server port
+server:
+  port: 4001
+
+# database
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/react_board
+    username: developer
+    password: P!ssw0rd
+
+# jwt
+jwt:
+  secret: S3cr3tK3y
+
+
+
+
