@@ -12,7 +12,7 @@ const latestBoardListMock : BoardListItem[] = [
         "viewCount": 0,
         "writeDatetime": "2024.04.20 00:54:28",
         "writeNickName": "안녕하세요",
-        "writerProfileImage":  null
+        "writerProfileImage":  'https://cdn.pixabay.com/photo/2021/02/08/19/55/cocker-5996316_1280.jpg'
     },
     {
 
@@ -66,4 +66,6 @@ const latestBoardListMock : BoardListItem[] = [
          "writeNickName": "안녕하세요",
          "writerProfileImage":  null
      },
-]
+];
+
+export default latestBoardListMock;

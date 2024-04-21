@@ -6,9 +6,10 @@ import defaultProfileImage from 'asset/image/default-profile-image.png';
 
 
 interface Props {
-    boardListItem: BoardListItem
+    boardListItem : BoardListItem
 }
 
+// 컴포넌트 BordItem
 export default function BoardItem( {boardListItem} : Props ) {
 
 
