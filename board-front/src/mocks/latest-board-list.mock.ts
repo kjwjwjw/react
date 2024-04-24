@@ -3,7 +3,7 @@ import { BoardListItem } from "types/interface";
 const latestBoardListMock : BoardListItem[] = [
     {
 
-       "boardNumber": 1,
+        "boardNumber": 1,
         "title": "오늘 점심 뭐먹지",
         "content": "점심 뭐먹을래",
         "boardTitleImage" :  null,
@@ -16,7 +16,7 @@ const latestBoardListMock : BoardListItem[] = [
     },
     {
 
-        "boardNumber": 1,
+         "boardNumber": 1,
          "title": "오늘 점심 뭐먹지",
          "content": "점심 뭐먹을래",
          "boardTitleImage" :  null,
@@ -29,7 +29,7 @@ const latestBoardListMock : BoardListItem[] = [
      },
      {
 
-        "boardNumber": 1,
+         "boardNumber": 1,
          "title": "오늘 점심 뭐먹지",
          "content": "점심 뭐먹을래",
          "boardTitleImage" :  null,
@@ -42,7 +42,7 @@ const latestBoardListMock : BoardListItem[] = [
      },
      {
 
-        "boardNumber": 1,
+         "boardNumber": 1,
          "title": "오늘 점심 뭐먹지",
          "content": "점심 뭐먹을래",
          "boardTitleImage" :  null,
@@ -55,7 +55,7 @@ const latestBoardListMock : BoardListItem[] = [
      },
      {
 
-        "boardNumber": 1,
+         "boardNumber": 1,
          "title": "오늘 점심 뭐먹지",
          "content": "점심 뭐먹을래",
          "boardTitleImage" :  null,
