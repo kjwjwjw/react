@@ -20,11 +20,11 @@ export default function BoardItem( {boardListItem} : Props ) {
 
     // function: 네비게이트 함수 //
 
-    const navigator = useNavigate();
+    // const navigator = useNavigate();
 
     // event handler : 게시물 아이템 클릭 이벤트 처리 함수 //
     const onClickHandler = () => {
-        navigator(boardNumber);
+        // navigator(boardNumber);
     }
 
 
