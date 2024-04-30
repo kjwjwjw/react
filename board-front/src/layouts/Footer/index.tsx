@@ -23,11 +23,12 @@ export default function Footer() {
     <div id='footer'>
             <div className='footer-container'>
                 <div className='footer-top'>
-                    <div className='footer-logo-box'></div>
+                    <div className='footer-logo-box'>
                         <div className='icon-box'>
                             <div className='icon logo-light-icon'></div>
                         </div>
                         <div className='footer-logo-text'>{'Hoons Board'}</div>
+                        </div>    
                     <div className='footer-link-box'>
                         <div className='footer-email-link'>{'sdkfj@gmail.com'}</div>
                         <div className='icon-button' onClick={onInstaIconButtonClickHandler}>
@@ -39,7 +40,7 @@ export default function Footer() {
                     </div>
                 </div>
                 <div className='footer-bottom'>
-                    <div className='footer-copyright'></div>
+                    <div className='footer-copyright'>{'Copright 2024 jw, All Rights Reserved. '}</div>
                </div>
             </div>
 
